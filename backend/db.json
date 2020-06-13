@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira de Souza",
+      "email": "aoliveira@cod3r.com.br"
+    },
+    {
+      "name": "Manu Rodrigues",
+      "email": "manu@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "João da Silva",
+      "email": "joaosilva@outlook.com",
+      "id": 5
+    },
+    {
+      "name": "Ana Rodrigues",
+      "email": "ana@embratel.com",
+      "id": 6
+    }
+  ]
+}
