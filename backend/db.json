@@ -6,19 +6,19 @@
       "email": "aoliveira@cod3r.com.br"
     },
     {
-      "name": "Manu Rodrigues",
-      "email": "manu@gmail.com",
-      "id": 4
-    },
-    {
+      "id": 2,
       "name": "João da Silva",
-      "email": "joaosilva@outlook.com",
-      "id": 5
+      "email": "joaosilva@outlook.com"
     },
     {
-      "name": "Ana Rodrigues",
-      "email": "ana@embratel.com",
-      "id": 6
+      "id": 3,
+      "name": "Manu Rodrigues",
+      "email": "manu@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Ana Paula Stuart",
+      "email": "ana.stuart@hotmail.com"
     }
   ]
 }
